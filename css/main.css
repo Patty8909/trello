@@ -78,4 +78,22 @@ button {
     background-color: #E5E6E9;
     border-radius: 20px;
 }
+.div3-container {
+    width: 300px;
+    background-color: #E5E6E9;
+    border-radius: 20px;
+}
+.div3first-style, .divtext2-style, .divBtn2-style, .textarea2 {
+    width: 250px;
+    margin-left: 30px;
+}
+.div3first-style, .divtext2-style {
+    font-family: 'Hind', sans-serif;
+    background-color: #E5E6E9;
+    font-weight: bold;
+    color: black;
+    font-size: 1rem;
+    padding: 0.1px 0;
+    border: none;
+}
 
