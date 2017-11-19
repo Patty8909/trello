@@ -83,22 +83,4 @@ window.addEventListener('load',function(){
         })
         })
     })
-
-
-    /*var formulario =document.getElementById('formulario')
-    var div =document.createElement('div')
-    formulario.appendChild(div)
-    var divButton = document.createElement('div')
-    var button =document.createElement('button')
-    div.appendChild(divButton)
-    divButton.appendChild(button)
-
-    button.addEventListener('click',function(event) {
-        
-        alert('hola')
-    })*/
-
-
-
-
 })

@@ -45,18 +45,15 @@ button {
     font-size: 1rem;
 }
 .style-div {
-    /*outline: 1px solid yellow;*/
     width: 250px;
     background-color: #E5E6E9;
     margin-left: 30px;
 }
 .style-divInput, .style-divButton {
     margin-top: 20px;
-    /*outline: 1px solid green;*/
 }
 /*estilos del formulario agregar tarea*/
 .listacont-style, .divtext-style, .divBtn-style {
-    /*outline: 1px solid yellow;*/
     width: 250px;
     margin-left: 30px;
 }
